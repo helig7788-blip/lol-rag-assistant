@@ -48,8 +48,6 @@ RGGLOL/
 ├── champion.json             # 英雄总表（被 .gitignore 排除）
 ├── champions/                # 原始英雄 JSON（被 .gitignore 排除）
 ├── 问答错误分析.csv          # 历史错误案例与诊断
-├── LOL助手知识手册.md        # 项目深度文档
-├── GitHub上传SOP.md          # 项目上传 GitHub 的 SOP
 ├── .gitignore
 └── README.md
 ```
@@ -186,7 +184,6 @@ Ollama 服务未启动。运行 `ollama serve` 后重试。
 ## 项目文档
 
 - [LOL助手知识手册.md](LOL助手知识手册.md) —— 完整架构原理、代码逐模块讲解、问题诊断与优化方案
-- [GitHub上传SOP.md](GitHub上传SOP.md) —— 本项目上传 GitHub 的标准操作流程
 - [问答错误分析.csv](问答错误分析.csv) —— 历史错误案例记录
 
 ---
